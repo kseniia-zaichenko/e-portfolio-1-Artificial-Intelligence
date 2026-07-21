@@ -4,9 +4,9 @@ A collection of artefacts that demonstrate what I have learnt about Artificial I
 
 ## Artefact 1: What is Artifical Intelligence (AI)?
 
-[Insert image or video here]
+[![AI, Machine Learning, Deep Learning and Generative AI Explained](https://img.youtube.com/vi/qYNweeDHiyU/hqdefault.jpg)](https://www.youtube.com/watch?v=qYNweeDHiyU)
 
-[Insert link here]
+https://www.youtube.com/watch?v=qYNweeDHiyU
 
 ### Summary of the artefact
 
