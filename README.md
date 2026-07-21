@@ -64,4 +64,4 @@ https://www.youtube.com/watch?v=qYNweeDHiyU
 
 ## References in CQU Harvard Style
 
-[Insert your reference list here]
+IBM Technology 2024, *AI, machine learning, deep learning and generative AI explained*, video, 5 August, viewed 21 July 2026, https://www.youtube.com/watch?v=qYNweeDHiyU
