@@ -17,8 +17,9 @@ https://www.youtube.com/watch?v=qYNweeDHiyU
 [Write justification and reflection here]
 
 ## Artefact 2: A News article I found this week
+[![William Yeates outside the Adelaide Magistrates Court](https://live-production.wcms.abc-cdn.net.au/dfa2dbbb55bed560b9180a29f495d015?cropH=802&cropW=1426&height=485&impolicy=wcms_crop_resize&width=862&xPos=0&yPos=232)](https://www.abc.net.au/news/2026-04-15/sa-teen-pleads-guilty-over-deepfake-images/106567132)
 
-[Insert screenshot or image here]
+https://www.abc.net.au/news/2026-04-15/sa-teen-pleads-guilty-over-deepfake-images/106567132
 
 [Insert link here]
 
