@@ -4,9 +4,9 @@ A collection of artefacts that demonstrate what I have learnt about Artificial I
 
 ## Artefact 1: What is Artifical Intelligence (AI)?
 
-[![AI, Machine Learning, Deep Learning and Generative AI Explained](https://img.youtube.com/vi/qYNweeDHiyU/hqdefault.jpg)](https://www.youtube.com/watch?v=qYNweeDHiyU)
+[![AI simply explained in 12 minutes](https://img.youtube.com/vi/dx_Ruw8vufI/hqdefault.jpg)](https://www.youtube.com/watch?v=dx_Ruw8vufI)
 
-https://www.youtube.com/watch?v=qYNweeDHiyU
+https://www.youtube.com/watch?v=dx_Ruw8vufI
 
 ### Summary of the artefact
 
@@ -29,19 +29,21 @@ https://www.abc.net.au/news/2026-04-15/sa-teen-pleads-guilty-over-deepfake-image
 
 [Write justification and reflection here]
 
-## Artefact 3: Scholary Article
+## Artefact 3: Scholarly Article
 
-[Insert screenshot of the scholarly article here]
+[![Aeneas AI system for contextualising ancient Latin inscriptions](./artefact-3-thumbnail.png)](https://www.nature.com/articles/s41586-025-09292-5)
 
-[Insert DOI or link here]
+*Source: Assael et al. (2025, p. 141).*
 
-### Summary of the aretfact
+https://www.nature.com/articles/s41586-025-09292-5
+
+### Summary of the artefact
 
 [Write summary here]
 
 ### Justification on why I chose the artefact
 
-[Write your justification and reflection here]
+[Write justification and reflection here]
 
 ## Artefact 4: Workshop Personal Reflection
 
@@ -60,6 +62,8 @@ https://www.abc.net.au/news/2026-04-15/sa-teen-pleads-guilty-over-deepfake-image
 [Explain why you selected this workshop moment and how it developed your understanding of Artificial Intelligence]
 
 ## References in CQU Harvard Style
+Assael, Y, Sommerschield, T, Cooley, A, Shillingford, B, Pavlopoulos, J, Suresh, P, Herms, B, Grayston, J, Maynard, B, Dietrich, N, Wulgaert, R, Prag, J, Mullen, A & Mohamed, S 2025, ‘Contextualizing ancient texts with generative neural networks’, *Nature*, vol. 645. DOI: 10.1038/s41586-025-09292-5
+
 Blandis, E 2026, ‘Landmark plea as teen admits creating or altering sexually explicit deepfakes’, *ABC News*, 15 April, viewed 23 July 2026, https://www.abc.net.au/news/2026-04-15/sa-teen-pleads-guilty-over-deepfake-images/106567132
 
-IBM Technology 2024, *AI, machine learning, deep learning and generative AI explained*, video, 5 August, viewed 21 July 2026, https://www.youtube.com/watch?v=qYNweeDHiyU
+Future with Fawzi 2025, *AI simply explained in 12 minutes*, video, 31 January, viewed 23 July 2026, https://www.youtube.com/watch?v=dx_Ruw8vufI
