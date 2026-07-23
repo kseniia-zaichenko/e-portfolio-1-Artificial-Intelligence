@@ -21,8 +21,6 @@ https://www.youtube.com/watch?v=qYNweeDHiyU
 
 https://www.abc.net.au/news/2026-04-15/sa-teen-pleads-guilty-over-deepfake-images/106567132
 
-[Insert link here]
-
 ### Summary of the artefact
 
 [Write summary here]
@@ -47,13 +45,15 @@ https://www.abc.net.au/news/2026-04-15/sa-teen-pleads-guilty-over-deepfake-image
 
 ## Artefact 4: Workshop Personal Reflection
 
-**Workshop Week:**  2
-**Day:**  ask tutor
-**Date:**  21/07/2026
-**Tutor:**  Gitte Galea
-**Campus:**  Online
+**Workshop Week 2, Wednesday, 21/07/2026. Tutor: Gitte Galea. Online Campus**
 
-[Insert selfie photo with something in the background that confirms my cutesie attendance for that week's workshop]
+<div align="center">
+
+## ✦ ˚₊‧ Me at the Workshop ‧₊˚ ✦ 
+
+<img src="./workshop-selfie.png" alt="Me attending the workshop" width="700">
+
+</div>
 
 ### Summary of the artefact: My Personal Reflection
 
