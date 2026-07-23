@@ -47,13 +47,9 @@ https://www.abc.net.au/news/2026-04-15/sa-teen-pleads-guilty-over-deepfake-image
 
 **Workshop Week 2, Wednesday, 21/07/2026. Tutor: Gitte Galea. Online Campus**
 
-<div align="center">
-
 ## ✦ ˚₊‧ Screenshot of me attending the Workshop ‧₊˚ ✦ 
 
 <img src="./workshop-selfie.png" alt="Me attending the workshop" width="700">
-
-</div>
 
 ### Summary of the artefact: My Personal Reflection
 
@@ -64,5 +60,6 @@ https://www.abc.net.au/news/2026-04-15/sa-teen-pleads-guilty-over-deepfake-image
 [Explain why you selected this workshop moment and how it developed your understanding of Artificial Intelligence]
 
 ## References in CQU Harvard Style
+Blandis, E 2026, ‘Landmark plea as teen admits creating or altering sexually explicit deepfakes’, *ABC News*, 15 April, viewed 23 July 2026, https://www.abc.net.au/news/2026-04-15/sa-teen-pleads-guilty-over-deepfake-images/106567132
 
 IBM Technology 2024, *AI, machine learning, deep learning and generative AI explained*, video, 5 August, viewed 21 July 2026, https://www.youtube.com/watch?v=qYNweeDHiyU
