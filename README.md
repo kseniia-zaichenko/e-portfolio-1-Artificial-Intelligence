@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=qYNweeDHiyU
 [Write justification and reflection here]
 
 ## Artefact 2: A News article I found this week
-[![ABC News article about an Australian deepfake court case](artefact-2-thumbnail.png)](https://www.abc.net.au/news/2026-04-15/sa-teen-pleads-guilty-over-deepfake-images/106567132)
+[![ABC News article about an Australian deepfake court case](./Artefact%202%20thumbnail.png)](https://www.abc.net.au/news/2026-04-15/sa-teen-pleads-guilty-over-deepfake-images/106567132)
 
 https://www.abc.net.au/news/2026-04-15/sa-teen-pleads-guilty-over-deepfake-images/106567132
 
