@@ -49,7 +49,7 @@ https://www.abc.net.au/news/2026-04-15/sa-teen-pleads-guilty-over-deepfake-image
 
 <div align="center">
 
-## ✦ ˚₊‧ Me at the Workshop ‧₊˚ ✦ 
+## ✦ ˚₊‧ Screenshot of me attending the Workshop ‧₊˚ ✦ 
 
 <img src="./workshop-selfie.png" alt="Me attending the workshop" width="700">
 
