@@ -10,11 +10,11 @@ https://www.youtube.com/watch?v=dx_Ruw8vufI
 
 ### Summary of the artefact
 
-[Write summary here]
+The video by Future with Fawzi (2025) goes through six chapters: what AI is and a brief classification (types of AI, black boxes that give different outputs, and levels of intelligence of AI); how to make an AI (machine learning); AI bias (sources and types of bias); AI image creation (latent space); energy costs (energy, cooling, solutions); and the history of AI (can machines think, the creation of the term AI, Eliza, AI winters, and the current rapid evolution of AI technologies).
 
 ### Justification on why I chose the artefact
 
-[Write justification and reflection here]
+I found this AI video entertaining, with easy-to-understand broad explanations. It covers a variety of topics, and the most amusing to me were the Image creation process explanations along with the history of AI, which includes ups when founding and interest peaks, and downs with AI winters when everyone gets disappointed in AI and countries’ arms races.
 
 ## Artefact 2: A News article I found this week
 [![ABC News article about an Australian deepfake court case](./Artefact%202%20thumbnail.png)](https://www.abc.net.au/news/2026-04-15/sa-teen-pleads-guilty-over-deepfake-images/106567132)
