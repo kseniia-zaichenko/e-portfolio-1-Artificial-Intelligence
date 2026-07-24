@@ -24,11 +24,11 @@ https://news.griffith.edu.au/2026/03/03/ai-technology-detects-real-time-koala-cr
 
 ### Summary of the artefact
 
-In this article, Rosengreen (2026) describes how a prototype AI-powered camera embedded in a smart road sign successfully detected and recorded a koala crossing the road in real time. The camera uses edge computing (a decentralised IT architecture that processes data near its source) and real-time video analysis. Although the article describes only the initial deployments of this technology, in the future, smart signs with integrated AI could save countless Australian wild animals' lives!
+In this article, Rosengreen (2026) describes how a prototype AI-powered camera embedded in a smart road sign successfully detected and recorded a koala crossing the road in real time. The camera employs edge computing (a decentralised IT architecture that processes data near its source) and real-time video analysis, which may, in the future, save countless Australian wild animals' lives!
 
 ### Justification on why I chose the artefact
 
-I chose this article because it discussed the positive uses of AI and complemented the workshop's discussion of AI-enabled cameras. Moreover, this example of technology somewhat mitigates the negative effects of other AI and its ecological impact. So, using AI with real-time data processing to better protect our native Australian animals and species is an important step for the environment and road safety in general. I believe this technology can be adapted for other animals in the future, and who knows, maybe in 10 years we won't see the typical highway landscape characterised by the carcasses of downed kangaroos, possums, and rabbits.
+I chose this article because it expands on the workshop's discussion of AI-enabled cameras like Waymo through a different lens. Moreover, such a technology somewhat mitigates AI’s negative ecological impact by helping to protect Australian wildlife. I believe this technology can be adapted for other animals in the future. Hopefully, one day we will not see the typical Australian roadway landscape filled with downed kangaroos and possums.
 
 ## Artefact 3: Scholarly Article
 
