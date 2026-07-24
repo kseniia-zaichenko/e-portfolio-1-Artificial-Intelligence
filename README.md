@@ -16,18 +16,19 @@ The video by Future with Fawzi (2025) goes through six chapters: what AI is and 
 
 I found this AI video entertaining, with easy-to-understand broad explanations. It covers a variety of topics, and the most amusing to me were the Image creation process explanations along with the history of AI, which includes ups when founding and interest peaks, and downs with AI winters when everyone gets disappointed in AI and countries’ arms races.
 
-## Artefact 2: A News article I found this week
-[![ABC News article about an Australian deepfake court case](./Artefact%202%20thumbnail.png)](https://www.abc.net.au/news/2026-04-15/sa-teen-pleads-guilty-over-deepfake-images/106567132)
+## Artefact 2: AI Technology Detects a Koala Crossing in Real Time
 
-https://www.abc.net.au/news/2026-04-15/sa-teen-pleads-guilty-over-deepfake-images/106567132
+[![AI-powered camera detecting a koala crossing](./artefact-2-thumbnail.png)](https://news.griffith.edu.au/2026/03/03/ai-technology-detects-real-time-koala-crossing-in-first-for-field/)
+
+https://news.griffith.edu.au/2026/03/03/ai-technology-detects-real-time-koala-crossing-in-first-for-field/
 
 ### Summary of the artefact
 
-[Write summary here]
+In this article, Rosengreen (2026) describes how a prototype AI-powered camera embedded in a smart road sign successfully detected and recorded a koala crossing the road in real time. The camera uses edge computing (a decentralised IT architecture that processes data near its source) and real-time video analysis. Although the article describes only the initial deployments of this technology, in the future, smart signs with integrated AI could save countless Australian wild animals' lives!
 
 ### Justification on why I chose the artefact
 
-[Write justification and reflection here]
+I chose this article because it discussed the positive uses of AI and complemented the workshop's discussion of AI-enabled cameras. Moreover, this example of technology somewhat mitigates the negative effects of other AI and its ecological impact. So, using AI with real-time data processing to better protect our native Australian animals and species is an important step for the environment and road safety in general. I believe this technology can be adapted for other animals in the future, and who knows, maybe in 10 years we won't see the typical highway landscape characterised by the carcasses of downed kangaroos, possums, and rabbits.
 
 ## Artefact 3: Scholarly Article
 
@@ -63,6 +64,6 @@ The screenshot captures two moments simultaneously: my chat message about the le
 ## References in CQU Harvard Style
 Assael, Y, Sommerschield, T, Cooley, A, Shillingford, B, Pavlopoulos, J, Suresh, P, Herms, B, Grayston, J, Maynard, B, Dietrich, N, Wulgaert, R, Prag, J, Mullen, A & Mohamed, S 2025, ‘Contextualizing ancient texts with generative neural networks’, *Nature*, vol. 645. DOI: 10.1038/s41586-025-09292-5
 
-Blandis, E 2026, ‘Landmark plea as teen admits creating or altering sexually explicit deepfakes’, *ABC News*, 15 April, viewed 23 July 2026, https://www.abc.net.au/news/2026-04-15/sa-teen-pleads-guilty-over-deepfake-images/106567132
-
 Future with Fawzi 2025, *AI simply explained in 12 minutes*, video, 31 January, viewed 23 July 2026, https://www.youtube.com/watch?v=dx_Ruw8vufI
+
+Rosengreen, C 2026, ‘AI technology detects real-time koala crossing in first for field’, *Griffith News*, 3 March, viewed 24 July 2026, https://news.griffith.edu.au/2026/03/03/ai-technology-detects-real-time-koala-crossing-in-first-for-field/
