@@ -29,7 +29,7 @@ In this article, Rosengreen (2026) describes how a prototype AI-powered camera e
 
 ### Justification on why I chose the artefact
 
-I chose this article because it expands on the workshop's discussion of AI-enabled cameras, such as Waymo's, through a different lens. Moreover, this technology somewhat mitigates AI’s negative ecological impact by helping protect Australian wildlife. I believe this technology could be adapted for other animals in the future, and one day we will no longer see the typical Australian roadway landscape filled with downed kangaroos and possums, thanks to AI.
+I chose this article because it expands on the workshop's discussion of AI-enabled cameras, such as Waymo, through a different lens. Moreover, this technology somewhat mitigates AI’s negative ecological impact by helping protect Australian wildlife. I believe this technology could later be adapted for other animals, and one day we will no longer see the typical Australian roadway landscape filled with downed kangaroos and possums, thanks to AI.
 
 
 ## Artefact 3: Scholarly Article
