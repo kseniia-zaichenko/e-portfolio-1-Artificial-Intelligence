@@ -10,11 +10,11 @@ https://www.youtube.com/watch?v=dx_Ruw8vufI
 
 ### Summary of the artefact
 
-The video by Future with Fawzi (2025) goes through what AI is and a brief classification, especially AI black boxes that give different outputs, which made me think of the AI future in the context of hypothetical SuperAI and an existential question at 11:19 : “If AI can do it all, what am I good for?” The video also covers how to build an AI, diving into machine learning, AI bias, AI image creation (latent space), AI energy costs, and the history of AI.
+The video by Future with Fawzi (2025) discusses AI, including its classification, especially AI black boxes that give different outputs. I liked that the video also covers how to build an AI, diving into machine learning, AI bias, AI image creation, AI energy costs, and the history of AI, where I learned what AI winters are.
 
 ### Justification on why I chose the artefact
 
-I included this video because it covers complex AI topics in an easy-to-understand manner. The most amusing to me was the penguin-biased analogy Fawzi (the author) used at 3:57, where Fawzi explains common types of AI bias as if a child who grew up in Antarctica would see the world. It made me think of how training data, companies owning the AI, and oversimplified algorithms shape the output of AI black boxes, as I never thought of AI bias beyond AI being trained on low-quality data. 
+I included this video as it covers complicated AI in an easy-to-understand manner. I was amused by the penguin-based analogy the author uses at 3:57, in which he explains common types of AI bias as a child who grew up in Antarctica would see them. It made me consider how training data, ownership, and algorithms influence AI bias, as I had only understood bias through low-quality training data.
 
 ## Artefact 2: AI Technology Detects a Koala Crossing in Real Time
 
