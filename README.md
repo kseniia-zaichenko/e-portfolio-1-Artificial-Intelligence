@@ -39,11 +39,11 @@ https://www.nature.com/articles/s41586-025-09292-5
 
 ### Summary of the artefact
 
-The article by Assael et al. (2025, p. 141) introduces Aeneas, a generative neural network for contextualising ancient texts, which is not limited by exact text matching, as it uses "historically enriched embeddings". Aeneas simultaneously solves three problems: text restoration, geographic attribution, and chronological attribution. The model can also process images of inscriptions in addition to text transcription, which significantly increases the accuracy of geographic identification, making it recognised as useful by 23 expert historians in the study in 90% of cases!
+The article by Assael et al. (2025, p. 141) introduces Aeneas, a generative neural network for contextualising ancient texts that uses"historically enriched embeddings". The most mind-blowing part of the article to me is that the model can also process images of inscriptions, in addition to text transcriptions, which is atypical for current AI language models, as it goes well beyond regular text recognition, allowing Aeneas to simultaneously solve three problems: text restoration, geographic attribution, and chronological attribution.
 
 ### Justification on why I chose the artefact
 
-I picked this article because I've dreamed of becoming an IT archaeologist since childhood, and AI makes it possible! Using artificial intelligence like this opens up endless possibilities of adapting the technology for other ancient languages apart from Latin epigraphy to resolve unsolved mysteries of the past.
+I picked this article because I've dreamed of becoming an IT archaeologist since childhood, and AI makes it possible! Using artificial intelligence like this opens up endless possibilities for adapting the technology to other ancient languages, beyond Latin epigraphy, to resolve unsolved mysteries of the past.
 
 ## Artefact 4: Workshop Personal Reflection
 
