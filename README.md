@@ -12,11 +12,11 @@ https://www.youtube.com/watch?v=dx_Ruw8vufI
 
 ### Summary of the artefact
 
-The video by Future with Fawzi (2025) discusses AI, including its classification, especially AI black boxes that give different outputs. I liked that the video also explains how AI is created and trained through machine learning, AI bias, AI image creation, AI energy costs, and the history of AI, where I learned what AI winters are.
+The video by Future with Fawzi (2025) describes AI, including its classification, especially various AI black boxes. I liked that the video also explains how AI is created and operates through machine learning, AI bias, AI image creation, ecological impact, and the history of AI, where I learned what AI winters are (Future with Fawzi 2025).
 
 ### Justification on why I chose the artefact
 
-I included this video as it covers complicated AI in an easy-to-understand manner. I was amused by the penguin-based analogy the author uses at 4:00, in which he explains common types of AI bias as a child who grew up in Antarctica would see them. It made me consider how training data, ownership, and algorithms influence AI bias, as I had only understood bias through low-quality training data.
+I included this video because it explains complex AI topics in an easy-to-understand manner. I was amused by the author’s penguin-based analogy at 4:00, explaining common types of AI bias through a grown-up in Antarctica child’s worldview (Future with Fawzi 2025). This made me think about how training data, ownership, and algorithms shape AI bias, as I had only thought of bias as stemming from poor training data.
 
 
 ## Artefact 2: AI Technology Detects a Koala Crossing in Real Time
