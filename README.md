@@ -2,7 +2,7 @@
 
 A collection of artefacts that demonstrate what I have learnt about Artificial Intelligence this week
 
-## Artefact 1: What is Artifical Intelligence (AI)?
+## Artefact 1: What is Artificial Intelligence (AI)?
 
 [![AI simply explained in 12 minutes](https://img.youtube.com/vi/dx_Ruw8vufI/hqdefault.jpg)](https://www.youtube.com/watch?v=dx_Ruw8vufI)
 
@@ -10,11 +10,12 @@ https://www.youtube.com/watch?v=dx_Ruw8vufI
 
 ### Summary of the artefact
 
-The video by Future with Fawzi (2025) discusses AI, including its classification, especially AI black boxes that give different outputs. I liked that the video also covers how to build an AI, diving into machine learning, AI bias, AI image creation, AI energy costs, and the history of AI, where I learned what AI winters are.
+The video by Future with Fawzi (2025) discusses AI, including its classification, especially AI black boxes that give different outputs. I liked that the video also explains how AI is created and trained through machine learning, AI bias, AI image creation, AI energy costs, and the history of AI, where I learned what AI winters are.
 
 ### Justification on why I chose the artefact
 
-I included this video as it covers complicated AI in an easy-to-understand manner. I was amused by the penguin-based analogy the author uses at 3:57, in which he explains common types of AI bias as a child who grew up in Antarctica would see them. It made me consider how training data, ownership, and algorithms influence AI bias, as I had only understood bias through low-quality training data.
+I included this video as it covers complicated AI in an easy-to-understand manner. I was amused by the penguin-based analogy the author uses at 4:00, in which he explains common types of AI bias as a child who grew up in Antarctica would see them. It made me consider how training data, ownership, and algorithms influence AI bias, as I had only understood bias through low-quality training data.
+
 
 ## Artefact 2: AI Technology Detects a Koala Crossing in Real Time
 
@@ -24,11 +25,12 @@ https://news.griffith.edu.au/2026/03/03/ai-technology-detects-real-time-koala-cr
 
 ### Summary of the artefact
 
-In this article, Rosengreen (2026) describes how a prototype AI-powered camera embedded in a smart road sign successfully detected and recorded a koala crossing the road in real time. The camera employs edge computing (a decentralised IT architecture that processes data near its source) and real-time video analysis, which may, in the future, save countless Australian wild animals' lives!
+In this article, Rosengreen (2026) describes how a prototype AI-powered camera embedded in a smart road sign successfully detected and recorded a koala crossing the road in real time. The camera employs edge computing (a decentralised IT architecture that processes data near its source) and real-time video analysis, which may, in the future, save countless Australian wild animals' lives, in my opinion!
 
 ### Justification on why I chose the artefact
 
 I chose this article because it expands on the workshop's discussion of AI-enabled cameras like Waymo's through a different lens. Moreover, this technology somewhat mitigates AI’s negative ecological impact by helping protect Australian wildlife. I believe this technology can be adapted for other animals in the future, and one day we will no longer see the typical Australian roadway landscape filled with downed kangaroos and possums, thanks to AI.
+
 
 ## Artefact 3: Scholarly Article
 
@@ -39,11 +41,12 @@ https://www.nature.com/articles/s41586-025-09292-5
 
 ### Summary of the artefact
 
-The article by Assael et al. (2025, p. 141) introduces Aeneas, a generative neural network for contextualising ancient texts that uses"historically enriched embeddings". The most mind-blowing part of the article to me is that the model can also process images of inscriptions, in addition to text transcriptions, which is atypical for current AI language models, as it goes well beyond regular text recognition, allowing Aeneas to simultaneously solve three problems: text restoration, geographic attribution, and chronological attribution.
+The article by Assael et al. (2025, pp. 141-143) introduces Aeneas, a generative neural network for contextualising ancient Latin inscriptions. The most mind-blowing part of the article to me is that the model can process both images of inscriptions and text transcriptions, addressing a limitation of earlier text-centred AI approaches to epigraphy. I found it interesting that Assael also uses historically enriched representations to retrieve relevant inscription parallels, which is a new analysis dimension of language models to me.
 
 ### Justification on why I chose the artefact
 
-I picked this article because I have dreamed of becoming an IT archaeologist since childhood, and AI makes it possible! Using artificial intelligence like this opens up endless possibilities for adapting the technology to other ancient languages, beyond Latin epigraphy, to resolve unsolved mysteries of the past.
+I picked this article because I've dreamed of becoming an IT archaeologist since childhood, and AI makes it possible! Using artificial intelligence like this opens up endless possibilities for adapting the technology to other ancient languages, beyond Latin epigraphy, to resolve unsolved mysteries of the past.
+
 
 ## Artefact 4: Workshop Personal Reflection
 
@@ -60,6 +63,7 @@ This week, I learned about AI as a "black box", where internal AI processes rema
 ### Justification on why I chose the artefact
 
 The screenshot shows my chat message about leaked police body-camera videos on YouTube that may be used unethically to generate AI content. I included this moment because it highlights a complex legal area without clear guidelines. This workshop made me think about AI's capabilities and whether there's an ethical way to use it without a legal framework infringing on free speech.
+
 
 ## References in CQU Harvard Style
 Assael, Y, Sommerschield, T, Cooley, A, Shillingford, B, Pavlopoulos, J, Suresh, P, Herms, B, Grayston, J, Maynard, B, Dietrich, N, Wulgaert, R, Prag, J, Mullen, A & Mohamed, S 2025, ‘Contextualizing ancient texts with generative neural networks’, *Nature*, vol. 645. DOI: 10.1038/s41586-025-09292-5
