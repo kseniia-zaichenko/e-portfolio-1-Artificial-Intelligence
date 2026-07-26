@@ -45,7 +45,7 @@ The article by Assael et al. (2025, pp. 141-143) introduces Aeneas, a generative
 
 ### Justification on why I chose the artefact
 
-I picked this article because I've dreamed of becoming an IT archaeologist since childhood, and AI makes it possible! Using artificial intelligence like this opens up endless possibilities for adapting the technology to other ancient languages, beyond Latin epigraphy, to resolve unsolved mysteries of the past.
+I picked this article because I have dreamed of becoming an IT archaeologist since childhood, and AI makes it possible! Using artificial intelligence like this opens up endless possibilities for adapting the technology to other ancient languages, beyond Latin epigraphy, to resolve unsolved mysteries of the past.
 
 
 ## Artefact 4: Workshop Personal Reflection
