@@ -25,7 +25,7 @@ https://news.griffith.edu.au/2026/03/03/ai-technology-detects-real-time-koala-cr
 
 ### Summary of the artefact
 
-In this article, Rosengreen (2026) describes how a prototype AI-powered camera embedded in a smart road sign successfully detected and recorded a koala crossing the road in real time. The technology employs edge computing and real-time video analysis, which may, in the future, save countless Australian wild animals' lives, in my opinion (Rosengreen 2026).
+In this article, Rosengreen (2026) describes how a prototype AI-powered camera embedded in a smart road sign successfully detected and recorded a koala crossing the road in real time. The technology employs edge computing and real-time video analysis, which may, in my opinion, save countless Australian wild animals' lives in the future (Rosengreen 2026).
 
 ### Justification on why I chose the artefact
 
