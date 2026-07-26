@@ -19,7 +19,7 @@ The video by Future with Fawzi (2025) describes AI, including its classification
 I included this video because it explains complex AI topics in an easy-to-understand manner. I was amused by the author’s penguin-based analogy at 4:00, explaining common types of AI bias through a grown-up in Antarctica child’s worldview (Future with Fawzi 2025). This made me think about how training data, ownership, and algorithms shape AI bias, as I had only thought of bias as stemming from poor training data.
 
 
-## Artefact 2: AI Technology Detects a Koala Crossing in Real Time
+## Artefact 2: A News article I found this week
 
 [![AI-powered camera detecting a koala crossing](./artefact-2-thumbnail.png)](https://news.griffith.edu.au/2026/03/03/ai-technology-detects-real-time-koala-crossing-in-first-for-field/)
 *Source: Rosengreen (2026).*
