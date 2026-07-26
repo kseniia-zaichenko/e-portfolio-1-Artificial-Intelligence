@@ -49,7 +49,7 @@ I picked this article because I have dreamed of becoming an IT archaeologist sin
 
 ## Artefact 4: Workshop Personal Reflection
 
-**Workshop Week 2, 21/07/2026. Tutor: Gitte Galea. Online Campus**
+**Workshop Week 2, 21 July 2026. Tutor: Gitte Galea. Online Campus**
 
 ## Proof of attendance
 
