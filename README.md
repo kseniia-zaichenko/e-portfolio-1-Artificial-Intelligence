@@ -6,8 +6,6 @@ A collection of artefacts that demonstrate what I have learnt about Artificial I
 
 [![AI simply explained in 12 minutes](https://img.youtube.com/vi/dx_Ruw8vufI/hqdefault.jpg)](https://www.youtube.com/watch?v=dx_Ruw8vufI)
 
-*Source: Future with Fawzi (2025).*
-
 https://www.youtube.com/watch?v=dx_Ruw8vufI
 
 ### Summary of the artefact
@@ -22,7 +20,6 @@ I included this video because it explains complex AI topics in an easy-to-unders
 ## Artefact 2: A News article I found this week
 
 [![AI-powered camera detecting a koala crossing](./artefact-2-thumbnail.png)](https://news.griffith.edu.au/2026/03/03/ai-technology-detects-real-time-koala-crossing-in-first-for-field/)
-*Source: Rosengreen (2026).*
 
 https://news.griffith.edu.au/2026/03/03/ai-technology-detects-real-time-koala-crossing-in-first-for-field/
 
@@ -32,13 +29,12 @@ In this article, Rosengreen (2026) describes how a prototype AI-powered camera e
 
 ### Justification on why I chose the artefact
 
-I chose this article because it expands on the workshop's discussion of AI-enabled cameras, such as Waymo's, through a different lens. Moreover, this technology somewhat mitigates AI’s negative ecological impact by helping protect Australian wildlife. I believe this technology can be adapted for other animals in the future, and one day we will no longer see the typical Australian roadway landscape filled with downed kangaroos and possums, thanks to AI.
+I chose this article because it expands on the workshop's discussion of AI-enabled cameras, such as Waymo's, through a different lens. Moreover, this technology somewhat mitigates AI’s negative ecological impact by helping protect Australian wildlife. I believe this technology could be adapted for other animals in the future, and one day we will no longer see the typical Australian roadway landscape filled with downed kangaroos and possums, thanks to AI.
 
 
 ## Artefact 3: Scholarly Article
 
 [![Aeneas AI system for contextualising ancient Latin inscriptions](./artefact-3-thumbnail.png)](https://www.nature.com/articles/s41586-025-09292-5)
-*Source: Assael et al. (2025, p. 141).*
 
 https://www.nature.com/articles/s41586-025-09292-5
 
