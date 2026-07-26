@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=dx_Ruw8vufI
 
 ### Summary of the artefact
 
-I liked that the video also explains how AI systems are created and trained using machine learning, as well as AI bias, AI-generated images, ecological impacts, and the history of AI, where I learned what AI winters are (Future with Fawzi 2025).
+The video by Future with Fawzi (2025) describes AI, including the idea of AI systems as “black boxes”. I liked that the video also explains how AI systems are created and trained using machine learning, as well as AI bias, AI-generated images, ecological impacts, and the history of AI, where I learned what AI winters are (Future with Fawzi 2025).
 
 ### Justification on why I chose the artefact
 
