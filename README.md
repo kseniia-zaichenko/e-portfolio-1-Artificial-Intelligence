@@ -5,6 +5,7 @@ A collection of artefacts that demonstrate what I have learnt about Artificial I
 ## Artefact 1: What is Artificial Intelligence (AI)?
 
 [![AI simply explained in 12 minutes](https://img.youtube.com/vi/dx_Ruw8vufI/hqdefault.jpg)](https://www.youtube.com/watch?v=dx_Ruw8vufI)
+*Source: Future with Fawzi (2025).*
 
 https://www.youtube.com/watch?v=dx_Ruw8vufI
 
