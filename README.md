@@ -44,7 +44,7 @@ https://www.nature.com/articles/s41586-025-09292-5
 
 ### Summary of the artefact
 
-The article by Assael et al. (2025, pp. 141-143) introduces Aeneas, a generative neural network for contextualising ancient Latin inscriptions. The most mind-blowing part of the article to me is that the model can process both images of inscriptions and text transcriptions, addressing a limitation of earlier text-centred AI approaches to epigraphy. I found it interesting that Aeneas also uses historically enriched representations to retrieve relevant inscription parallels, which is a new analysis dimension of language models to me.
+The article by Assael et al. (2025, pp. 141-143) introduces Aeneas, a generative neural network for contextualising ancient Latin inscriptions. The most mind-blowing part of the article to me was that the model can process both inscription images and text transcriptions, overcoming a limitation of earlier text-centered AI approaches to epigraphy. I found it interesting that Aeneas also uses historically enriched representations to retrieve relevant inscription parallels, adding a new analysis dimension of language models to me.
 
 ### Justification on why I chose the artefact
 
