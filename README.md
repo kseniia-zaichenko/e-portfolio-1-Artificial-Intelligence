@@ -28,11 +28,11 @@ https://news.griffith.edu.au/2026/03/03/ai-technology-detects-real-time-koala-cr
 
 ### Summary of the artefact
 
-In this article, Rosengreen (2026) describes how a prototype AI-powered camera embedded in a smart road sign successfully detected and recorded a In this article, Rosengreen (2026) describes how a prototype AI-powered camera embedded in a smart road sign successfully detected and recorded a koala crossing the road in real time. The technology employs edge computing and real-time video analysis, which may, in the future, save countless Australian wild animals' lives, in my opinion (Rosengreen 2026).
+In this article, Rosengreen (2026) describes how a prototype AI-powered camera embedded in a smart road sign successfully detected and recorded a koala crossing the road in real time. The technology employs edge computing and real-time video analysis, which may, in the future, save countless Australian wild animals' lives, in my opinion (Rosengreen 2026).
 
 ### Justification on why I chose the artefact
 
-I chose this article because it expands on the workshop's discussion of AI-enabled cameras like Waymo's through a different lens. Moreover, this technology somewhat mitigates AI’s negative ecological impact by helping protect Australian wildlife. I believe this technology can be adapted for other animals in the future, and one day we will no longer see the typical Australian roadway landscape filled with downed kangaroos and possums, thanks to AI.
+I chose this article because it expands on the workshop's discussion of AI-enabled cameras, such as Waymo's, through a different lens. Moreover, this technology somewhat mitigates AI’s negative ecological impact by helping protect Australian wildlife. I believe this technology can be adapted for other animals in the future, and one day we will no longer see the typical Australian roadway landscape filled with downed kangaroos and possums, thanks to AI.
 
 
 ## Artefact 3: Scholarly Article
@@ -44,11 +44,11 @@ https://www.nature.com/articles/s41586-025-09292-5
 
 ### Summary of the artefact
 
-The article by Assael et al. (2025, pp. 141-143) introduces Aeneas, a generative neural network for contextualising ancient Latin inscriptions. The most mind-blowing part of the article to me was that the model can process both inscription images and text transcriptions, overcoming a limitation of earlier text-centered AI approaches to epigraphy. I found it interesting that Aeneas also uses historically enriched representations to retrieve relevant inscription parallels, adding a new analysis dimension of language models to me.
+The article by Assael et al. (2025, pp. 141-143) introduces Aeneas, a generative neural network for contextualising ancient Latin inscriptions. The most mind-blowing part of the article to me was that the model processes inscription images and text transcriptions, overcoming a limitation of earlier text-centred AI approaches to epigraphy. I found it interesting that Aeneas also uses historically enriched representations to retrieve relevant inscription parallels, adding a new dimension to language models for me (Assael et al. 2025, p. 143).
 
 ### Justification on why I chose the artefact
 
-I picked this article because I have dreamed of becoming an IT archaeologist since childhood, and AI makes it possible! Using artificial intelligence like this opens up endless possibilities for adapting the technology to other ancient languages, beyond Latin epigraphy, to resolve unsolved mysteries of the past.
+I picked this article because I have dreamed of becoming an IT archaeologist since childhood, and AI makes it possible! Using artificial intelligence like this opens up endless possibilities for adapting the technology to other ancient languages to resolve mysteries of the past.
 
 
 ## Artefact 4: Workshop Personal Reflection
@@ -61,11 +61,11 @@ I picked this article because I have dreamed of becoming an IT archaeologist sin
 
 ### Summary of the artefact: My Personal Reflection
 
-This week, I learned about AI as a "black box", where internal AI processes remain uncertain. Galea (2026) explains that such a box cannot be opened, traced, or reconstructed to show its exact generation path. I was then struck by a discussion on police body camera videos being vulnerable to manipulation, especially when no one can prove that stolen material was used.
+This week, I learned about AI as a "black box". Galea (2026) explains that such a box cannot be opened, traced, or reconstructed to show its exact generation path. I was then struck by a class discussion about police body-camera videos being vulnerable to manipulation in the context of AI black boxes, as the absence of responsibility underscores the legal gap in current law.
 
 ### Justification on why I chose the artefact
 
-The screenshot shows my chat message about leaked police body-camera videos on YouTube that may be used unethically to generate AI content. I included this moment because it highlights a complex legal area without clear guidelines. This workshop made me think about AI's capabilities and whether there's an ethical way to use it without a legal framework infringing on free speech.
+The screenshot shows my chat message about leaked police body-camera videos on YouTube that may be used unethically to generate AI content. I included this moment because it highlights a complex legal area lacking clear guidelines. This workshop made me think about AI's capabilities and whether there's an ethical way to use it without a legal framework infringing on free speech.
 
 
 ## References in CQU Harvard Style
