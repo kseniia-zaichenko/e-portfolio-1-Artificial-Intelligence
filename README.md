@@ -20,12 +20,13 @@ I included this video as it covers complicated AI in an easy-to-understand manne
 ## Artefact 2: AI Technology Detects a Koala Crossing in Real Time
 
 [![AI-powered camera detecting a koala crossing](./artefact-2-thumbnail.png)](https://news.griffith.edu.au/2026/03/03/ai-technology-detects-real-time-koala-crossing-in-first-for-field/)
+*Source: Rosengreen (2026).*
 
 https://news.griffith.edu.au/2026/03/03/ai-technology-detects-real-time-koala-crossing-in-first-for-field/
 
 ### Summary of the artefact
 
-In this article, Rosengreen (2026) describes how a prototype AI-powered camera embedded in a smart road sign successfully detected and recorded a koala crossing the road in real time. The camera employs edge computing (a decentralised IT architecture that processes data near its source) and real-time video analysis, which may, in the future, save countless Australian wild animals' lives, in my opinion!
+In this article, Rosengreen (2026) describes how a prototype AI-powered camera embedded in a smart road sign successfully detected and recorded a koala crossing the road in real time. The camera employs edge computing (a decentralised IT architecture that processes data near its source) and real-time video analysis, which may, in the future, save countless Australian wild animals' lives, in my opinion (Rosengreen 2026)!
 
 ### Justification on why I chose the artefact
 
@@ -41,7 +42,7 @@ https://www.nature.com/articles/s41586-025-09292-5
 
 ### Summary of the artefact
 
-The article by Assael et al. (2025, pp. 141-143) introduces Aeneas, a generative neural network for contextualising ancient Latin inscriptions. The most mind-blowing part of the article to me is that the model can process both images of inscriptions and text transcriptions, addressing a limitation of earlier text-centred AI approaches to epigraphy. I found it interesting that Assael also uses historically enriched representations to retrieve relevant inscription parallels, which is a new analysis dimension of language models to me.
+The article by Assael et al. (2025, pp. 141-143) introduces Aeneas, a generative neural network for contextualising ancient Latin inscriptions. The most mind-blowing part of the article to me is that the model can process both images of inscriptions and text transcriptions, addressing a limitation of earlier text-centred AI approaches to epigraphy. I found it interesting that Aeneas also uses historically enriched representations to retrieve relevant inscription parallels, which is a new analysis dimension of language models to me.
 
 ### Justification on why I chose the artefact
 
