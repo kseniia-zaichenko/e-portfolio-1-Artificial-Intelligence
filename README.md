@@ -66,4 +66,6 @@ Assael, Y, Sommerschield, T, Cooley, A, Shillingford, B, Pavlopoulos, J, Suresh,
 
 Future with Fawzi 2025, *AI simply explained in 12 minutes*, video, 31 January, viewed 23 July 2026, https://www.youtube.com/watch?v=dx_Ruw8vufI
 
+Galea, G 2026, Week 2 Lecture: Artificial Intelligence, COIT11223: ICT Ethics and Governance in Society, CQUniversity, viewed 21 July 2026, http://moodle.cqu.edu.au
+
 Rosengreen, C 2026, ‘AI technology detects real-time koala crossing in first for field’, *Griffith News*, 3 March, viewed 24 July 2026, https://news.griffith.edu.au/2026/03/03/ai-technology-detects-real-time-koala-crossing-in-first-for-field/
