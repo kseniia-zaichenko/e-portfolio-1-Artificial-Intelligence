@@ -28,7 +28,7 @@ In this article, Rosengreen (2026) describes how a prototype AI-powered camera e
 
 ### Justification on why I chose the artefact
 
-I chose this article because it expands on the workshop's discussion of AI-enabled cameras like Waymo through a different lens. Moreover, such a technology somewhat mitigates AI’s negative ecological impact by helping to protect Australian wildlife. I believe this technology can be adapted for other animals in the future. Hopefully, one day we will not see the typical Australian roadway landscape filled with downed kangaroos and possums.
+I chose this article because it expands on the workshop's discussion of AI-enabled cameras like Waymo's through a different lens. Moreover, this technology somewhat mitigates AI’s negative ecological impact by helping protect Australian wildlife. I believe this technology can be adapted for other animals in the future, and one day we will no longer see the typical Australian roadway landscape filled with downed kangaroos and possums, thanks to AI.
 
 ## Artefact 3: Scholarly Article
 
@@ -43,11 +43,11 @@ The article by Assael et al. (2025, p. 141) introduces Aeneas, a generative neur
 
 ### Justification on why I chose the artefact
 
-I chose this article because I've dreamed of becoming an IT archaeologist since childhood, and AI makes it possible! Using artificial intelligence like this opens up endless possibilities of adapting the technology for other ancient languages apart from Latin epigraphy to resolve unsolved mysteries of the past.
+I picked this article because I've dreamed of becoming an IT archaeologist since childhood, and AI makes it possible! Using artificial intelligence like this opens up endless possibilities of adapting the technology for other ancient languages apart from Latin epigraphy to resolve unsolved mysteries of the past.
 
 ## Artefact 4: Workshop Personal Reflection
 
-**Workshop Week 2, Wednesday, 21/07/2026. Tutor: Gitte Galea. Online Campus**
+**Workshop Week 2, 21/07/2026. Tutor: Gitte Galea. Online Campus**
 
 ## Proof of attendance
 
