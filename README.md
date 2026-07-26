@@ -49,13 +49,13 @@ I chose this article because I've dreamed of becoming an IT archaeologist since 
 
 **Workshop Week 2, Wednesday, 21/07/2026. Tutor: Gitte Galea. Online Campus**
 
-## ✦ ˚₊‧ Screenshot of me attending the Workshop ‧₊˚ ✦ 
+## Proof of attendance
 
 <img src="./workshop-selfie.png" alt="Me attending the workshop" width="700">
 
 ### Summary of the artefact: My Personal Reflection
 
-This week, I learned about AI as a "black box." Galea (2026) states that such a box cannot be opened, traced to its exact source, or reconstructed to show its exact generation path. I was struck by the subsequent discussion with other workshop participants about police body cameras and how vulnerable these videos are to manipulation, given an AI black box when no one can ever prove that stolen material was used.
+This week, I learned about AI as a "black box", where internal AI processes remain uncertain. Galea (2026) explains that such a box cannot be opened, traced, or reconstructed to show its exact generation path. I was then struck by a discussion on police body camera videos being vulnerable to manipulation, especially when no one can prove that stolen material was used.
 
 ### Justification on why I chose the artefact
 
