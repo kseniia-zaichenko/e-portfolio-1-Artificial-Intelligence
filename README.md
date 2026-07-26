@@ -71,4 +71,6 @@ Future with Fawzi 2025, *AI simply explained in 12 minutes*, video, 31 January, 
 
 Galea, G 2026, Week 2 Lecture: Artificial Intelligence, COIT11223: ICT Ethics and Governance in Society, CQUniversity, viewed 21 July 2026, http://moodle.cqu.edu.au
 
+## AI Use Statement
+Grammarly’s proofreading features were used to check and refine the grammar, wording, and punctuation of the original text.
 Rosengreen, C 2026, ‘AI technology detects real-time koala crossing in first for field’, *Griffith News*, 3 March, viewed 24 July 2026, https://news.griffith.edu.au/2026/03/03/ai-technology-detects-real-time-koala-crossing-in-first-for-field/
