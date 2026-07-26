@@ -10,11 +10,11 @@ https://www.youtube.com/watch?v=dx_Ruw8vufI
 
 ### Summary of the artefact
 
-The video by Future with Fawzi (2025) goes through six chapters: what AI is and a brief classification (types of AI, black boxes that give different outputs, and levels of intelligence of AI); how to make an AI (machine learning); AI bias (sources and types of bias); AI image creation (latent space); energy costs (energy, cooling, solutions); and the history of AI (can machines think, the creation of the term AI, Eliza, AI winters, and the current rapid evolution of AI technologies).
+The video by Future with Fawzi (2025) goes through what AI is and a brief classification, especially AI black boxes that give different outputs, which made me think of the AI future in context of hypothetical SuperAI and an exsistential question at 11:19 “If AI can do it all, What am I good for”;  how to make an AI, diving into machine learning; AI bias sources and types of bias; AI image creation (latent space); AI energy costs; and the history of AI.
 
 ### Justification on why I chose the artefact
 
-I found this AI video entertaining, with easy-to-understand broad explanations. It covers a variety of topics, and the most amusing to me were the Image creation process explanations along with the history of AI, which includes ups when founding and interest peaks, and downs with AI winters when everyone gets disappointed in AI and countries’ arms races.
+I included this video as it covers many topics previously unknown to me. The most amusing was the penguin-biased analogy Fawzi (the author) used at 3:57, where Fawzi explains common types of AI bias as if a child who grew up in Antarctica would see the world. It made me think of how training data, companies owning the AI, oversimplified algorithnms shape the output of AI black boxes, as I never thought of AI bias beuond AI being trained on low-qiuality data.
 
 ## Artefact 2: AI Technology Detects a Koala Crossing in Real Time
 
