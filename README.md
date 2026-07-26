@@ -10,11 +10,11 @@ https://www.youtube.com/watch?v=dx_Ruw8vufI
 
 ### Summary of the artefact
 
-The video by Future with Fawzi (2025) goes through what AI is and a brief classification, especially AI black boxes that give different outputs, which made me think of the AI future in context of hypothetical SuperAI and an exsistential question at 11:19 “If AI can do it all, What am I good for”;  how to make an AI, diving into machine learning; AI bias sources and types of bias; AI image creation (latent space); AI energy costs; and the history of AI.
+The video by Future with Fawzi (2025) goes through what AI is and a brief classification, especially AI black boxes that give different outputs, which made me think of the AI future in the context of hypothetical SuperAI and an existential question at 11:19 : “If AI can do it all, what am I good for?” The video also covers how to build an AI, diving into machine learning, AI bias, AI image creation (latent space), AI energy costs, and the history of AI.
 
 ### Justification on why I chose the artefact
 
-I included this video as it covers many topics previously unknown to me. The most amusing was the penguin-biased analogy Fawzi (the author) used at 3:57, where Fawzi explains common types of AI bias as if a child who grew up in Antarctica would see the world. It made me think of how training data, companies owning the AI, oversimplified algorithnms shape the output of AI black boxes, as I never thought of AI bias beuond AI being trained on low-qiuality data.
+I included this video because it covers complex AI topics in an easy-to-understand manner. The most amusing to me was the penguin-biased analogy Fawzi (the author) used at 3:57, where Fawzi explains common types of AI bias as if a child who grew up in Antarctica would see the world. It made me think of how training data, companies owning the AI, and oversimplified algorithms shape the output of AI black boxes, as I never thought of AI bias beyond AI being trained on low-quality data. 
 
 ## Artefact 2: AI Technology Detects a Koala Crossing in Real Time
 
