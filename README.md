@@ -10,11 +10,11 @@ https://www.youtube.com/watch?v=dx_Ruw8vufI
 
 ### Summary of the artefact
 
-The video by Future with Fawzi (2025) describes AI, including its classification, especially various AI black boxes. I liked that the video also explains how AI is created and operates through machine learning, AI bias, AI image creation, ecological impact, and the history of AI, where I learned what AI winters are (Future with Fawzi 2025).
+I liked that the video also explains how AI systems are created and trained using machine learning, as well as AI bias, AI-generated images, ecological impacts, and the history of AI, where I learned what AI winters are (Future with Fawzi 2025).
 
 ### Justification on why I chose the artefact
 
-I included this video because it explains complex AI topics in an easy-to-understand manner. I was amused by the author’s penguin-based analogy at 4:00, explaining common types of AI bias through a grown-up in Antarctica child’s worldview (Future with Fawzi 2025). This made me think about how training data, ownership, and algorithms shape AI bias, as I had only thought of bias as stemming from poor training data.
+I included this video because it explains complex AI topics in an easy-to-understand manner. I was amused by the author’s penguin-based analogy at 4:00, explaining AI bias through the worldview of a child who grew up in Antarctica (Future with Fawzi 2025). This made me think about how training data, ownership, and algorithms shape AI bias, as I had only thought of bias as stemming from poor training data.
 
 
 ## Artefact 2: A News article I found this week
@@ -57,7 +57,7 @@ I picked this article because I have dreamed of becoming an IT archaeologist sin
 
 ### Summary of the artefact: My Personal Reflection
 
-This week, I learned about AI as a "black box". Galea (2026) explains that such a box cannot be opened, traced, or reconstructed to show its exact generation path. Later in the workshop, I was struck by the lack of responsibility in current law when AI generates content based on illegal content, as the class discussed how police body-camera videos are vulnerable to manipulation.
+This week, I learned about AI as a "black box". Galea (2026) explains that such a box cannot be opened, traced, or reconstructed to show its exact generation path. Later in the workshop, I was struck by gaps in current law around responsibility when AI-generated content is based on illegally obtained material, as the class discussed how police body-camera videos are vulnerable to manipulation.
 
 ### Justification on why I chose the artefact
 
