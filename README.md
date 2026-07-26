@@ -57,11 +57,11 @@ I picked this article because I have dreamed of becoming an IT archaeologist sin
 
 ### Summary of the artefact: My Personal Reflection
 
-This week, I learned about AI as a "black box". Galea (2026) explains that such a box cannot be opened, traced, or reconstructed to show its exact generation path. I was then struck by a class discussion about police body-camera videos being vulnerable to manipulation in the context of AI black boxes, as the absence of responsibility underscores the legal gap in current law.
+This week, I learned about AI as a "black box". Galea (2026) explains that such a box cannot be opened, traced, or reconstructed to show its exact generation path. Later in the workshop, I was struck by the lack of responsibility in current law when AI generates content based on illegal content, as the class discussed how police body-camera videos are vulnerable to manipulation.
 
 ### Justification on why I chose the artefact
 
-The screenshot shows my chat message about leaked police body-camera videos on YouTube that may be used unethically to generate AI content. I included this moment because it highlights a complex legal area lacking clear guidelines. This workshop made me think about AI's capabilities and whether there's an ethical way to use it without a legal framework infringing on free speech.
+The screenshot shows my chat message about leaked police body-camera videos I found on YouTube that may be used unethically to generate AI content. I included this moment because it highlights a complex legal area lacking clear guidelines. This workshop made me think about AI's capabilities and whether there's an ethical way to use it without a legal framework infringing on free speech.
 
 
 ## References in CQU Harvard Style
